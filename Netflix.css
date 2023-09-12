@@ -1,0 +1,173 @@
+.Top{
+    background-image: url("https://raw.githubusercontent.com/Kalvium-Program/netflix-clone-boilerplate/879632ffba193ba160a60da7759b23651e5feaa5/assets/Title-Image.png");
+    height: 800px;
+    background-color: black;
+}
+.titlebar-left{
+    padding: 25px;
+    display: flex;
+    align-items: space-between;
+    color: black;
+    font-size: x-large;
+}
+.titlebar-right{
+    display: flex;
+    justify-content: flex-end;
+    align-items: space-between;
+}
+.options{
+    display: flex;
+    justify-content: flex-start;
+    padding: 8px;
+    color: black;
+}
+.icons1{
+    display: flex;
+    justify-content: flex-end;   
+}
+.heading1{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-items: baseline;
+    padding: 10px;
+}
+.show{
+    font-size: 30px;
+    color: white;
+}
+.heading2{
+    display: flex;
+    justify-content: last baseline;
+    font-size: 150px;
+    color: white;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+}
+.images1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 5px;
+    color: white;
+}
+.Top10{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 5px;
+    color: white;
+}
+.trending{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 5px;
+    color: white;
+}
+.scifi{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    color: white;
+    padding: 5px;
+}
+.body2{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start ;
+}
+.images2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+}
+.images3{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.images4{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.icons2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.text1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+.text2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+.text3{
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: space-around;
+}
+.text4{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+.play{
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.moreinfo{
+    background-color: lightslategray;
+    border-radius: 5px;
+    padding: 10px;
+}
+.btn1{
+    padding: 10px;
+}
+.body{
+    background-color:black;
+}
+.footer{
+    background-color: black;
+}
+.btn2{
+    padding: 15px;
+    background-color: black;
+}
+.button2{
+    background-color: black;
+    color: white;
+}
+.subheading1{
+    padding: 5px;
+    font-size: 30px;
+    font-style: normal;
+}
+.bottom{
+    color: white;
+    text-align: center;
+}
